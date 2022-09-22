@@ -87,7 +87,7 @@
     }
 
     h1 {
-      inline-size: 40em;
+      inline-size: 80%;
       overflow-wrap: break-word;
       hyphens: auto;
     }
