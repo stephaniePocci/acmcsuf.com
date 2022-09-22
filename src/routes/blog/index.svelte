@@ -194,7 +194,6 @@
         }
 
         a > h2 {
-          // white-space: nowrap; // epepepe
           overflow: hidden;
           text-overflow: ellipsis;
           min-width: 0;

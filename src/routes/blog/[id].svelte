@@ -85,6 +85,12 @@
         color: var(--acm-blue);
       }
     }
+
+    h1 {
+      inline-size: 40em;
+      overflow-wrap: break-word;
+      hyphens: auto;
+    }
   }
 
   .container {
